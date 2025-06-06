@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard project that analyzes sales data for Nescafe outlets across different locations, time periods, and product categories. Built with Power Query, Pivot Tables, and slicers to deliver deep, actionable business insights.
 
-![Dashboard Preview](25ccd83a-85f6-4d6d-9d92-aa0afb3ba454.png)
+![image](https://github.com/user-attachments/assets/c9064d71-203b-4492-b6f2-50909ce058a1)
 
 ---
 
@@ -104,7 +104,7 @@ This project presents a business-ready Excel dashboard for Nescafe’s multi-sto
 **Abhishek Sethi**  
 🎯 Data Analyst | Excel | SQL | Power BI  
 📧 abhisheksethi297376@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) *(Add your profile link here)*
+🔗 [LinkedIn](https://www.linkedin.com/in/asethi297/) 
 
 ---
 
